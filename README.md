@@ -1,0 +1,2 @@
+## The Power of AI: Fundamentals to Applications
+A comprehensive introduction to artificial intelligence accessible to students across all disciplines. Addresses fundamental principles of AI, key concepts like knowledge representation, reasoning, machine learning, natural language processing, and neural networks. Topics such as AI’s impact across various fields, critical analyses of the benefits and limitations of the state of the art, ethical considerations, and hands-on experience in leveraging AI technologies will be covered.
